@@ -1,0 +1,13 @@
+{
+  "mcp": {
+    "servers": {
+      "github-mcp": {
+        "command": "C:/Users/Jayasri t/openclaw-github-agent/venv/Scripts/python.exe",
+        "args": [
+          "server.py"
+        ],
+        "cwd": "C:/Users/Jayasri t/openclaw-github-agent"
+      }
+    }
+  }
+}
